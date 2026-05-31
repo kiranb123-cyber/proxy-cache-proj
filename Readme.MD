@@ -60,10 +60,7 @@ The cache is in-memory, meaning it is cleared when the server restarts. A future
 ## What I Learned
 
 - How HTTP proxy servers work under the hood
-- Flask routing and response handling
-- In-memory caching with Python dictionaries
 - CLI argument parsing with `argparse`
-- Reading and setting HTTP headers
 
 
 ## Future Additions
