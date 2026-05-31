@@ -64,3 +64,9 @@ The cache is in-memory, meaning it is cleared when the server restarts. A future
 - In-memory caching with Python dictionaries
 - CLI argument parsing with `argparse`
 - Reading and setting HTTP headers
+
+
+## Future Additions
+
+- Add redis for caching
+- adding tests to ensure functions work
